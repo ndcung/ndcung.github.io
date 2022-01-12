@@ -1,0 +1,19 @@
+h2 {
+    color: red;
+    background-color: black;
+}
+
+h3#heading { color: green;}
+
+#heading {color: blue;}
+
+h3#heading.heading {color: red;}
+/* mức độ ưu tiên id là #heading, class là .heading, tag là h3 */
+
+body h3#heading.heading {color: violet;}
+
+.heading {font-size: 50px;
+font-style: italic;}
+
+.heading1 {color: red;}
+.heading2 {color: green;}
