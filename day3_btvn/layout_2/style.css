@@ -1,0 +1,60 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card {
+    border: .5px solid #c4c4c4e3;
+    width: 375px;
+    overflow: hidden;
+}
+
+
+.year {
+    background-color: #ef5321;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 3px 0;
+    text-align: center;
+}
+.time {
+    color: #fff;
+    background-color: #fe6d3f;
+    height: 140px;
+    text-align: center;
+    margin-bottom: 16px;
+}
+
+h1{
+    font-weight: 400;
+    font-size:40px;
+    padding-top: 30px;
+}
+h2 {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.info a{
+    display: flex;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    padding: 0 30px;
+    font-weight: 400;
+}
+.teacher , .day ,.time_learn ,.location {
+    font-size: 14px;
+    font-weight: 400;
+    padding: 0 30px;
+}
+
+
+button{
+    border:none;
+    color: #3874e4;
+    padding-top: 5px;
+    font-size:16px;  
+}
