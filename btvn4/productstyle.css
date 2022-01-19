@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+   
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.back {
+    font-weight: 400;
+    text-decoration: underline;
+}
+.chitiet{
+    width: 55%;
+    margin: auto;
+    line-height: 2;
+}
+
+img {
+    width: 400px;
+    border-radius: 4px;
+}
+
+h2 {
+    padding: 0 10px;
+  }
+
+  a {
+    font-size: 14px;
+    text-decoration: none;
+    color: #000;
+    padding: 0 0 20px 20px;
+    cursor: pointer;
+}
+
